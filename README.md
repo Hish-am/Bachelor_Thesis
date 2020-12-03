@@ -20,4 +20,20 @@ The following illustration shows the steps taken by the code to first of all app
   
 The final extraction of the von-Neumann entanglment entropy from the SVD  
   
-  ![Hamiltonian MPO](https://github.com/Hish-am/Tensor_Network_calculations_on_Many_Body_Quantum_Hamiltonians_using_ITensor/blob/master/SVD_result_of_the_MPS_and_isolating_the_Singular_Values_for_vN_entropy_extraction.png)  
+  ![Hamiltonian MPO](https://github.com/Hish-am/Tensor_Network_calculations_on_Many_Body_Quantum_Hamiltonians_using_ITensor/blob/master/SVD_result_of_the_MPS_and_isolating_the_Singular_Values_for_vN_entropy_extraction.png)
+    
+      
+This is the figure illustrating the correspondance between Matrix Product States and Quantum Circuits, the example here is the 4-Qubit GHZ State Circuit:  
+
+![Hamiltonian MPO](https://github.com/Hish-am/MCQST_Poster_Entanglement_Entropy_and_Mutaual_Information_of_an_MPS_Circuit_for_a_4-qubit_GHZ_State/blob/main/images/one_to_one_corespondance.png)  
+  
+This is the "Hypothetical would-be" inferred density matrix we assumed would reflect the decoherence seen in an experimental setting from the quantum computer:  
+<p align="center" width="100%">
+<img src="https://github.com/Hish-am/MCQST_Poster_Entanglement_Entropy_and_Mutaual_Information_of_an_MPS_Circuit_for_a_4-qubit_GHZ_State/blob/main/images/experimental_Density_matrix.jpg" width="500">
+
+  
+    
+    
+  
+<img src="https://github.com/Hish-am/MCQST_Poster_Entanglement_Entropy_and_Mutaual_Information_of_an_MPS_Circuit_for_a_4-qubit_GHZ_State/blob/main/images/Calculations.png" width="800">
+
